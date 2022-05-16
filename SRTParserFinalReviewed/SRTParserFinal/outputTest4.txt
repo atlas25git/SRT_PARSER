@@ -1,0 +1,6540 @@
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 533
+End : 2936
+Text in srt: 
+PlainText :  CC: TELEMUNDO NETWORK
+FormattedText :
+
+ CC: TELEMUNDO NETWORK Properties: FontColor: #FFFF00 BackGroundColor: default isBold: No isItalic: No isUnderlined: No
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 1
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 5405
+End : 9709
+Text in srt: 
+PlainText : >> TE VOY A AYUDAR, PERO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 2
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 6539
+End : 11177
+Text in srt: 
+PlainText : NO POR TUS AMENAZAS.
+FormattedText :
+
+NO POR TUS AMENAZAS. Properties: FontColor: default BackGroundColor: default isBold: No isItalic: Yes isUnderlined: No
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 3
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 8641
+End : 12178
+Text in srt: 
+PlainText : LO HAGO POR MÍ, PARA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 4
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 9776
+End : 13580
+Text in srt: 
+PlainText : LIMPIAR MI CONCIENCIA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 5
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 11244
+End : 16583
+Text in srt: 
+PlainText : >> ES QUE ES MUY PELIGROSO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 6
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 12245
+End : 18084
+Text in srt: 
+PlainText : HIJO, NO LO HAGAS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 7
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 13646
+End : 19619
+Text in srt: 
+PlainText : >>SHHH... LO TENGO QUE HACER.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 8
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 16649
+End : 20987
+Text in srt: 
+PlainText : LE DIJE QUE CAMBIARÍA, Y ES LA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 9
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 18151
+End : 23223
+Text in srt: 
+PlainText : FORMA DE DEMOSTRÁRSELO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 10
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 19686
+End : 24691
+Text in srt: 
+PlainText : >> YO TE DIJE QUE CLEMENTE TE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 11
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 21054
+End : 25658
+Text in srt: 
+PlainText : IBA A ACUSAR. ¿Y QUÉ HICISTE?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 12
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 23323
+End : 26693
+Text in srt: 
+PlainText : ¡LO ELIMINASTE!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 13
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 24758
+End : 27394
+Text in srt: 
+PlainText : >>¡YO NO HE HECHO NADA!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 14
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 25725
+End : 29529
+Text in srt: 
+PlainText : >>¡CLARO QUE TÚ LO MATASTE,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 15
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 26759
+End : 32432
+Text in srt: 
+PlainText : MAMÁ!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 16
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 27493
+End : 34100
+Text in srt: 
+PlainText : ¡ESTOY SEGURO QUE TÚ LO MATASTE!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 17
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 29596
+End : 35068
+Text in srt: 
+PlainText : >> MI HIJA COMETIÓ UN CRIMEN.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 18
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 32499
+End : 36302
+Text in srt: 
+PlainText : SU ERROR FUE HABERSE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 19
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 34167
+End : 39139
+Text in srt: 
+PlainText : METIDO CON UN CASADO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 20
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 35135
+End : 43009
+Text in srt: 
+PlainText : Y DIOS LA ESTÁ CASTIGANDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 21
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 36369
+End : 44577
+Text in srt: 
+PlainText : >> LETICIA ES INOCENTE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 22
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 39205
+End : 46379
+Text in srt: 
+PlainText : >>¡PAPÁ, POR FIN LLEGASTE!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 23
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 43076
+End : 47547
+Text in srt: 
+PlainText : >> SÍ, MI AMOR. TUVE QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 24
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 44644
+End : 49315
+Text in srt: 
+PlainText : RESOLVER UNAS COSAS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 25
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 46446
+End : 50417
+Text in srt: 
+PlainText : >> NO QUIERO SEPARARME
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 26
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 47613
+End : 51918
+Text in srt: 
+PlainText : NUNCA DE TI. TE AMO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 27
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 49382
+End : 52919
+Text in srt: 
+PlainText : >> RAQUEL, TE ADVERTÍ QUE LE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 28
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 50483
+End : 53853
+Text in srt: 
+PlainText : IBA A DECIR TODO A TUS HIJOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 29
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 51985
+End : 55288
+Text in srt: 
+PlainText : ASÍ QUE SI ME QUIERES CALLAR,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 30
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 52985
+End : 57690
+Text in srt: 
+PlainText : HAZLO AHORA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 31
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 53920
+End : 58825
+Text in srt: 
+PlainText : >> ¿DE QUÉ HABLAS? ESTÁS LOCO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 32
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 55355
+End : 59726
+Text in srt: 
+PlainText : VÁMONOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 33
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 57757
+End : 60627
+Text in srt: 
+PlainText : >> UNO DE USTEDES TRES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 34
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 58892
+End : 62729
+Text in srt: 
+PlainText : ES MI HIJO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 35
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 59793
+End : 64998
+Text in srt: 
+PlainText : EDUARDO: ¿QUÉ?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 36
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 60693
+End : 66733
+Text in srt: 
+PlainText : >> UNO DE USTEDES TRES ES EL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 37
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 62796
+End : 68835
+Text in srt: 
+PlainText : HIJO QUE VALENTINA Y YO TUVIMOS,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 38
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 65065
+End : 71604
+Text in srt: 
+PlainText : Y QUE FUE ROBADO POR RAQUEL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 39
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 66800
+End : 74207
+Text in srt: 
+PlainText : >>¿SOY YO, VERDAD?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 40
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 68902
+End : 76076
+Text in srt: 
+PlainText : >>¿DE QUÉ HABLAS?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 41
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 71671
+End : 76076
+Text in srt: 
+PlainText : >>¿SOY YO EL... EL... EL HIJO DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 42
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 74274
+End : 76076
+Text in srt: 
+PlainText : ADRIANO FERRER?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 43
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 78210
+End : 80280
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 44
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 81214
+End : 87420
+Text in srt: 
+PlainText : >>SIENTO LÁSTIMA POR TI. ERES 
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 45
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 84184
+End : 89022
+Text in srt: 
+PlainText : MÁS ESTÚPIDO DE LO QUE PENSABA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 46
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 86352
+End : 91491
+Text in srt: 
+PlainText : >> INSÚLTAME TODO LO QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 47
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 87487
+End : 92992
+Text in srt: 
+PlainText : QUIERAS. ME HE PASADO TODA LA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 48
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 89089
+End : 94727
+Text in srt: 
+PlainText : VIDA ESCUCHANDO TUS INSULTOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 49
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 91557
+End : 95829
+Text in srt: 
+PlainText : ¿POR QUÉ?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 50
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 93059
+End : 98098
+Text in srt: 
+PlainText : ¿PORQUE NO SOY TU HIJO?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 51
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 94794
+End : 100266
+Text in srt: 
+PlainText : ¿PORQUE SOY EL HIJO DE TU
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 52
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 95895
+End : 102035
+Text in srt: 
+PlainText : HERMANA Y DE ADRIANO FERRER?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 53
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 98164
+End : 103970
+Text in srt: 
+PlainText : >>¡NO! NO, NINGUNO DE USTEDES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 54
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 100333
+End : 105338
+Text in srt: 
+PlainText : LO ES.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 55
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 102102
+End : 106706
+Text in srt: 
+PlainText : >>¿ESTÁS SEGURA? ¿NO SERÁ QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 56
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 104037
+End : 107907
+Text in srt: 
+PlainText : ESE MALTRATO HA SIDO PORQUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 57
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 105438
+End : 109175
+Text in srt: 
+PlainText : ¡CADA DÍA TE RECUERDO ESA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 58
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 106773
+End : 110877
+Text in srt: 
+PlainText : HISTORIA DE AMOR QUE ELLOS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 59
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 107974
+End : 112812
+Text in srt: 
+PlainText : TUVIERON Y QUE TÚ NO PUDISTE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 60
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 109241
+End : 115915
+Text in srt: 
+PlainText : TENER!?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 61
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 110944
+End : 119819
+Text in srt: 
+PlainText : >> NO. NO, YO FUI DURA CONTIGO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 62
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 112879
+End : 121821
+Text in srt: 
+PlainText : PORQUE TE AMABA, PORQUE QUERÍA 
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 63
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 115982
+End : 122755
+Text in srt: 
+PlainText : QUE MEJORARAS. TE JURO QUE NO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 64
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 119886
+End : 124190
+Text in srt: 
+PlainText : FUE FALTA DE AMOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 65
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 121888
+End : 126159
+Text in srt: 
+PlainText : >>¡YA BASTA, MAMÁ! ¡NO QUIERO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 66
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 122822
+End : 127727
+Text in srt: 
+PlainText : MÁS EXCUSAS! ¡QUIERO SABER
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 67
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 124257
+End : 128728
+Text in srt: 
+PlainText : LA VERDAD!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 68
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 126259
+End : 130063
+Text in srt: 
+PlainText : ¡POR ESO ME DESPRECIASTE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 69
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 127793
+End : 131764
+Text in srt: 
+PlainText : TODA LA VIDA! ¡¿VERDAD?!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 70
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 128795
+End : 133566
+Text in srt: 
+PlainText : >>¡NO GRITES, NO GRITES! ¡VAS A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 71
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 130130
+End : 135468
+Text in srt: 
+PlainText : DESPERTAR A TODO EL MUNDO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 72
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 131831
+End : 138905
+Text in srt: 
+PlainText : >> AHORA LO ENTIENDO. SOY EL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 73
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 133633
+End : 139906
+Text in srt: 
+PlainText : HIJO DE VALENTINA; ¡DE LA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 74
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 135535
+End : 141774
+Text in srt: 
+PlainText : HERMANA QUE SIEMPRE ODIASTE!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 75
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 138972
+End : 142942
+Text in srt: 
+PlainText : AHORA ENTIENDO PERFECTAMENTE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 76
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 140006
+End : 144544
+Text in srt: 
+PlainText : ¡TODO ENCAJA PERFECTAMENTE,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 77
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 141840
+End : 145311
+Text in srt: 
+PlainText : MAMÁ! 
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 78
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 143009
+End : 145879
+Text in srt: 
+PlainText : >>¡PERO, ¿QUÉ PASA AQUÍ?!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 79
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 144611
+End : 147113
+Text in srt: 
+PlainText : EDUARDO: VAN A DESPERTAR A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 80
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 145377
+End : 148848
+Text in srt: 
+PlainText : SOFÍA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 81
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 145945
+End : 150283
+Text in srt: 
+PlainText : >>¡HABLA YA, MAMÁ! ¡HABLA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 82
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 147180
+End : 152352
+Text in srt: 
+PlainText : ENFRENTE DE MIS HERMANOS!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 83
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 148948
+End : 153453
+Text in srt: 
+PlainText : ¡¿SOY EL HIJO DE ADRIANO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 84
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 150349
+End : 154654
+Text in srt: 
+PlainText : FERRER?!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 85
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 152418
+End : 157190
+Text in srt: 
+PlainText : >>¡OJALÁ LO FUERAS, PARA QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 86
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 153520
+End : 159159
+Text in srt: 
+PlainText : TE MARCHARAS LEJOS DE AQUÍ
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 87
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 154720
+End : 160727
+Text in srt: 
+PlainText : Y ME DEJARAS EN PAZ!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 88
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 157257
+End : 161628
+Text in srt: 
+PlainText : ERES UNA VERGÜENZA, CRISTÓBAL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 89
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 159225
+End : 164197
+Text in srt: 
+PlainText : EDUARDO: MAMÁ, POR FAVOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 90
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 160793
+End : 166266
+Text in srt: 
+PlainText : >>¡NINGUNO DE USTEDES ES HIJO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 91
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 161694
+End : 167300
+Text in srt: 
+PlainText : DE ESE INFELIZ! ¡YA! ¡YA NO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 92
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 164264
+End : 169435
+Text in srt: 
+PlainText : QUIERO SEGUIR CON ESTO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 93
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 166366
+End : 170203
+Text in srt: 
+PlainText : ¡VAYAN A HACERSE UN EXAMEN
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 94
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 167367
+End : 172372
+Text in srt: 
+PlainText : DE ADN, DE LO QUE QUIERAN!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 95
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 169536
+End : 173373
+Text in srt: 
+PlainText : ¡PERO A MÍ, NO ME SIGAN
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 96
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 170269
+End : 175208
+Text in srt: 
+PlainText : CUESTIONANDO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 97
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 172438
+End : 175208
+Text in srt: 
+PlainText : >> VAMOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 98
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 173439
+End : 175208
+Text in srt: 
+PlainText : JORGE: YA, VENTE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 99
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 179345
+End : 185451
+Text in srt: 
+PlainText : [SOLLOZOS]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 100
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 181881
+End : 185451
+Text in srt: 
+PlainText : >>¡MALDITO ADRIANO FERRER!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 101
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 183816
+End : 185451
+Text in srt: 
+PlainText : ¡MALDITO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 102
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 189923
+End : 194060
+Text in srt: 
+PlainText : >>ESTE LUGAR ES MUY BONITO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 103
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 190656
+End : 197197
+Text in srt: 
+PlainText : BLANCA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 104
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 192325
+End : 198331
+Text in srt: 
+PlainText : >> SÍ, ESTÁ PRECIOSO. YO CREO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 105
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 194127
+End : 201100
+Text in srt: 
+PlainText : QUE A PAPÁ LE HUBIERA ENCANTADO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 106
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 197263
+End : 203236
+Text in srt: 
+PlainText : ¿LO EXTRAÑAS MUCHO?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 107
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 198398
+End : 205638
+Text in srt: 
+PlainText : >> SÍ, SIEMPRE PIENSO EN ÉL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 108
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 201166
+End : 206773
+Text in srt: 
+PlainText : >>¿SABEN? YO NUNCA DEJÉ DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 109
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 203302
+End : 209576
+Text in srt: 
+PlainText : CUIDARLOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 110
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 205704
+End : 211110
+Text in srt: 
+PlainText : >> BLANCA, ¿TÚ SABES POR QUÉ
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 111
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 206839
+End : 212445
+Text in srt: 
+PlainText : LA SRA. RAQUEL MATÓ A PAPÁ?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 112
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 209642
+End : 213246
+Text in srt: 
+PlainText : >>¡AH! SIMONA, NO ES EL MOMENTO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 113
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 211177
+End : 216049
+Text in srt: 
+PlainText : POR FAVOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 114
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 212512
+End : 216916
+Text in srt: 
+PlainText : >> PERO ¿POR QUÉ? YA TODO EL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 115
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 213313
+End : 218751
+Text in srt: 
+PlainText : MUNDO LO SABE, Y TAMBIÉN HUGO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 116
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 216115
+End : 219385
+Text in srt: 
+PlainText : >> PERO, ¿POR QUÉ NO LA METES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 117
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 216983
+End : 220286
+Text in srt: 
+PlainText : EN LA CÁRCEL, BLANCA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 118
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 218818
+End : 223289
+Text in srt: 
+PlainText : >>¿Y POR QUÉ MEJOR NO NOS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 119
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 219452
+End : 224190
+Text in srt: 
+PlainText : OLVIDAMOS DE TODO Y TRATAMOS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 120
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 220353
+End : 226092
+Text in srt: 
+PlainText : DE SER FELICES AQUÍ? ¿HUM?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 121
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 223356
+End : 227627
+Text in srt: 
+PlainText : >> PERO YA NUNCA NOS VAMOS A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 122
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 224257
+End : 229596
+Text in srt: 
+PlainText : VOLVER A SEPARAR, ¿VERDAD?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 123
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 226159
+End : 230797
+Text in srt: 
+PlainText : >> NO, YA NO. [BESO]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 124
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 227694
+End : 232899
+Text in srt: 
+PlainText : >>¿SABES? SALVADOR ME CAE MUY
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 125
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 229662
+End : 234934
+Text in srt: 
+PlainText : BIEN, Y ADEMÁS SE VE QUE TE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 126
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 230863
+End : 234934
+Text in srt: 
+PlainText : QUIERE MUCHÍSIMO. ME ENCANTARÍA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 127
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 232966
+End : 234934
+Text in srt: 
+PlainText : QUE FUERAS SU NOVIA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 128
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 235801
+End : 244811
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 129
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 247880
+End : 253519
+Text in srt: 
+PlainText : >> KARINA...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 130
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 249415
+End : 255321
+Text in srt: 
+PlainText : >>¿QUÉ PASA, MI AMOR?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 131
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 251417
+End : 257323
+Text in srt: 
+PlainText : ¿QUÉ TIENES?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 132
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 253586
+End : 258124
+Text in srt: 
+PlainText : >> ME ENTERÉ DE ALGO TERRIBLE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 133
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 255388
+End : 261361
+Text in srt: 
+PlainText : >>¿QUÉ PASÓ? CUÉNTAME.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 134
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 257390
+End : 263630
+Text in srt: 
+PlainText : >> TAL VEZ ADRIANO FERRER ES MI
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 135
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 258191
+End : 263630
+Text in srt: 
+PlainText : PADRE. PUEDE SER QUE YO SEA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 136
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 261427
+End : 263630
+Text in srt: 
+PlainText : HIJO DE ÉL Y DE VALENTINA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 137
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 264129
+End : 274440
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 138
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 277176
+End : 279979
+Text in srt: 
+PlainText : [TOQUES EN LA PUERTA]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 139
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 278077
+End : 279979
+Text in srt: 
+PlainText : [RUIDO AL ABRIR]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 140
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 280813
+End : 287954
+Text in srt: 
+PlainText : >> HOLA, TÍA. YO SOY CRISTÓBAL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 141
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 284750
+End : 291257
+Text in srt: 
+PlainText : SÉ QUE DE TODOS MIS HERMANOS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 142
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 286653
+End : 293593
+Text in srt: 
+PlainText : SOY EL QUE MENOS CONTACTO TIENE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 143
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 288021
+End : 295695
+Text in srt: 
+PlainText : CONTIGO. PERO QUIZÁ SE DEBE A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 144
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 291324
+End : 295695
+Text in srt: 
+PlainText : QUE SOY EL MENOS SOCIABLE. NO ÉE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 145
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 293660
+End : 295695
+Text in srt: 
+PlainText : ACERCARME A LA GENTE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 146
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 299966
+End : 306806
+Text in srt: 
+PlainText : NO SÉ SI TÚ ME PUEDES ESCUCHAR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 147
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 303168
+End : 309542
+Text in srt: 
+PlainText : PERO QUIERO QUE SEPAS QUE...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 148
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 305905
+End : 311711
+Text in srt: 
+PlainText : ME ENTERÉ QUE A LO MEJOR SOY
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 149
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 306872
+End : 313813
+Text in srt: 
+PlainText : TU HIJO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 150
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 309608
+End : 314881
+Text in srt: 
+PlainText : TE VEO LUCHAR DÍA A DÍA,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 151
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 311778
+End : 315915
+Text in srt: 
+PlainText : SOPORTANDO ESTA ENFERMEDAD,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 152
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 313879
+End : 318584
+Text in srt: 
+PlainText : Y QUIERO DECIRTE QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 153
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 314947
+End : 319786
+Text in srt: 
+PlainText : ME LLENARÍA DE ORGULLO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 154
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 315982
+End : 323056
+Text in srt: 
+PlainText : SABER QUE ERES MI MAMÁ.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 155
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 318651
+End : 324123
+Text in srt: 
+PlainText : AHORA PIENSO QUE SI NO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 156
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 319852
+End : 326025
+Text in srt: 
+PlainText : HUBIERA PASADO LO QUE PASÓ...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 157
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 323122
+End : 326025
+Text in srt: 
+PlainText : NUESTRAS VIDAS SERÍAN
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 158
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 324190
+End : 326025
+Text in srt: 
+PlainText : DIFERENTES.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 159
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 326959
+End : 331097
+Text in srt: 
+PlainText : [♪♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 160
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 337170
+End : 343109
+Text in srt: 
+PlainText : [RUIDO AL ABRIR] >>EDUARDO...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 161
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 340139
+End : 344911
+Text in srt: 
+PlainText : POR FAVOR, ADELANTE. ME DA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 162
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 341274
+End : 344911
+Text in srt: 
+PlainText : MUCHO GUSTO QUE VENGAS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 163
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 343175
+End : 344911
+Text in srt: 
+PlainText : [RUIDO AL CERRAR]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 164
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 345144
+End : 350149
+Text in srt: 
+PlainText : PENSÉ QUE NINGUNO DE USTEDES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 165
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 346779
+End : 352418
+Text in srt: 
+PlainText : QUERÍA VOLVER A VERME. SIÉNTATE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 166
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 348748
+End : 354420
+Text in srt: 
+PlainText : >> GRACIAS. ESTAMOS MUY
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 167
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 350216
+End : 355588
+Text in srt: 
+PlainText : AFECTADOS, ADRIANO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 168
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 352485
+End : 357123
+Text in srt: 
+PlainText : NO LO TOMES A MAL, PERO...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 169
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 354487
+End : 358324
+Text in srt: 
+PlainText : ESPERAMOS QUE TODO ESTO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 170
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 355655
+End : 360059
+Text in srt: 
+PlainText : SEA UN MALENTENDIDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 171
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 357190
+End : 361494
+Text in srt: 
+PlainText : >>NO, PARA MÍ TODO ESTÁ
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 172
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 358391
+End : 363930
+Text in srt: 
+PlainText : MUY CLARO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 173
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 360126
+End : 365031
+Text in srt: 
+PlainText : INCLUSO PUEDO ENTENDER A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 174
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 361560
+End : 366666
+Text in srt: 
+PlainText : RAQUEL. ELLA QUIERE A MI HIJO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 175
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 363996
+End : 367667
+Text in srt: 
+PlainText : COMO A LOS OTROS, POR ESO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 176
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 365097
+End : 368935
+Text in srt: 
+PlainText : OCULTÓ LA VERDAD.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 177
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 366733
+End : 369902
+Text in srt: 
+PlainText : >> CRISTÓBAL NO ESTÁ DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 178
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 367734
+End : 371604
+Text in srt: 
+PlainText : ACUERDO CON ESO. ÉL SIENTE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 179
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 369001
+End : 373306
+Text in srt: 
+PlainText : QUE MI MADRE NUNCA LO AMÓ
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 180
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 369969
+End : 374707
+Text in srt: 
+PlainText : COMO A JORGE Y A MÍ.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 181
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 371671
+End : 375875
+Text in srt: 
+PlainText : >> CRISTÓBAL... 
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 182
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 373373
+End : 377243
+Text in srt: 
+PlainText : >>MI MADRE SIEMPRE SE HA PORTADO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 183
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 374774
+End : 378144
+Text in srt: 
+PlainText : DE UNA MANERA MÁS DURA CON ÉL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 184
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 375942
+End : 379946
+Text in srt: 
+PlainText : QUE CON NOSOTROS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 185
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 377310
+End : 381814
+Text in srt: 
+PlainText : >> BLANCA TENÍA ESA MISMA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 186
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 378211
+End : 385752
+Text in srt: 
+PlainText : TEORÍA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 187
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 380012
+End : 386986
+Text in srt: 
+PlainText : TAL VEZ ESE ODIO HACIA ÉL SE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 188
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 381881
+End : 388888
+Text in srt: 
+PlainText : DEBA... A QUE LE RECUERDA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 189
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 385818
+End : 390623
+Text in srt: 
+PlainText : EL AMOR QUE NOS TENÍAMOS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 190
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 387053
+End : 392258
+Text in srt: 
+PlainText : VALENTINA Y YO..
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 191
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 388955
+End : 394127
+Text in srt: 
+PlainText : >>BLANCA... ESO TE LO DECÍA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 192
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 390690
+End : 395294
+Text in srt: 
+PlainText : MIENTRAS TÚ Y ELLA ME
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 193
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 392325
+End : 397063
+Text in srt: 
+PlainText : ENGAÑABAN A MÍ Y A MI FAMILIA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 194
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 394193
+End : 399565
+Text in srt: 
+PlainText : CON "VICTORIA SAN MARINO".
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 195
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 395361
+End : 401067
+Text in srt: 
+PlainText : >> POR FAVOR, EDUARDO, NO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 196
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 397130
+End : 402769
+Text in srt: 
+PlainText : SEAS DURO CON NOSOTROS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 197
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 399632
+End : 404370
+Text in srt: 
+PlainText : YA SABES MIS MOTIVOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 198
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 401134
+End : 406205
+Text in srt: 
+PlainText : TAL VEZ VALIÓ LA PENA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 199
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 402835
+End : 408875
+Text in srt: 
+PlainText : >>¿DÓNDE ESTÁ, ADRIANO?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 200
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 404437
+End : 410376
+Text in srt: 
+PlainText : ¿ESTÁS SEGURO QUE ESTÁ BIEN?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 201
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 406272
+End : 414213
+Text in srt: 
+PlainText : >> BLANCA...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 202
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 408941
+End : 415481
+Text in srt: 
+PlainText : BLANCA ES UNA BUENA MUJER,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 203
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 410443
+End : 416983
+Text in srt: 
+PlainText : EDUARDO. ES NOBLE... ES UNA DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 204
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 414280
+End : 419585
+Text in srt: 
+PlainText : LAS MEJORES PERSONAS QUE HE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 205
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 415548
+End : 421020
+Text in srt: 
+PlainText : CONOCIDO EN MI VIDA, Y ESPERO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 206
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 417049
+End : 423289
+Text in srt: 
+PlainText : QUE AHORA SEA FELIZ.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 207
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 419652
+End : 425825
+Text in srt: 
+PlainText : >>¿POR QUÉ SE FUE?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 208
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 421087
+End : 428261
+Text in srt: 
+PlainText : >> YA TE DIJE QUE A VECES...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 209
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 423356
+End : 429729
+Text in srt: 
+PlainText : ES MEJOR NO PREGUNTAR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 210
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 425892
+End : 431798
+Text in srt: 
+PlainText : OLVÍDALA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 211
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 428327
+End : 431798
+Text in srt: 
+PlainText : OLVÍDALA, PARA QUE TÚ Y ELLA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 212
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 429796
+End : 431798
+Text in srt: 
+PlainText : PUEDAN REHACER SUS VIDAS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 213
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 432764
+End : 435735
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 214
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 437136
+End : 438704
+Text in srt: 
+PlainText : [SUENA UN CELULAR]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 215
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 442375
+End : 445945
+Text in srt: 
+PlainText : >>ES UN MENSAJE DE RAFAEL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 216
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 444143
+End : 446712
+Text in srt: 
+PlainText : QUIERE SABER DÓNDE Y CÓMO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 217
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 445110
+End : 447880
+Text in srt: 
+PlainText : ESTAMOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 218
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 446012
+End : 449182
+Text in srt: 
+PlainText : BLANCA: ¡TE DIJE QUE NO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 219
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 446779
+End : 450016
+Text in srt: 
+PlainText : TRAJÉRAMOS TELÉFONO! ¿NO TE DAS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 220
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 447947
+End : 451184
+Text in srt: 
+PlainText : CUENTA QUE NOS PUEDEN RASTREAR?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 221
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 449248
+End : 453119
+Text in srt: 
+PlainText : >> PERO, BLANCA...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 222
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 450082
+End : 454020
+Text in srt: 
+PlainText : >>¡ENTIÉNDELO, POR FAVOR! NADIE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 223
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 451250
+End : 455488
+Text in srt: 
+PlainText : PUEDE SABER DÓNDE ESTAMOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 224
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 453186
+End : 457323
+Text in srt: 
+PlainText : [RUIDO AL TIRAR EL TELÉFONO]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 225
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 454086
+End : 458257
+Text in srt: 
+PlainText : SIMONA: ¡OYE, ¿QUÉ TE PASA?!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 226
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 455588
+End : 459192
+Text in srt: 
+PlainText : ¡RAFAEL ES DE CONFIANZA!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 227
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 457390
+End : 460526
+Text in srt: 
+PlainText : >> SI EN VERDAD APRECIAS A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 228
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 458324
+End : 462328
+Text in srt: 
+PlainText : RAFAEL, NO SE TE OCURRA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 229
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 459258
+End : 463496
+Text in srt: 
+PlainText : CONTACTARLO. ¡NI A ÉL, NI
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 230
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 460593
+End : 464397
+Text in srt: 
+PlainText : A KARINA, NI A NADIE!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 231
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 462395
+End : 465031
+Text in srt: 
+PlainText : EL HECHO DE QUE ELLA SEPA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 232
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 463563
+End : 465965
+Text in srt: 
+PlainText : DÓNDE ESTAMOS, NOS PUEDE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 233
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 464463
+End : 467533
+Text in srt: 
+PlainText : PONER EN PELIGRO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 234
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 465097
+End : 468501
+Text in srt: 
+PlainText : >>¿Y POR QUÉ SALVADOR SÍ PUEDE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 235
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 466032
+End : 470603
+Text in srt: 
+PlainText : USAR SU CELULAR Y YO NO?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 236
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 467600
+End : 470603
+Text in srt: 
+PlainText : >> PORQUE ES DE EMERGENCIA; POR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 237
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 468568
+End : 470603
+Text in srt: 
+PlainText : SI NECESITAMOS ALGO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 238
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 471437
+End : 476476
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 239
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 480146
+End : 485017
+Text in srt: 
+PlainText : >> TRANQUILO, MI AMOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 240
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 482248
+End : 486219
+Text in srt: 
+PlainText : LO QUE ADRIANO LES DIJO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 241
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 483349
+End : 488187
+Text in srt: 
+PlainText : NO SIGNIFICA NADA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 242
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 485084
+End : 489555
+Text in srt: 
+PlainText : >> ES QUE NO LO PODRÍA SOPORTAR,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 243
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 486285
+End : 492024
+Text in srt: 
+PlainText : KARINA. SI MI VIDA HA SIDO UNA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 244
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 488254
+End : 493693
+Text in srt: 
+PlainText : MENTIRA, ¡TE JURO QUE NO PUEDO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 245
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 489622
+End : 496262
+Text in srt: 
+PlainText : PERDONAR A MI MAMÁ!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 246
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 492091
+End : 496963
+Text in srt: 
+PlainText : >>¡HIJA! ¡KARINA, MIRA LO QUE TE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 247
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 493759
+End : 498164
+Text in srt: 
+PlainText : LLEGÓ!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 248
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 496329
+End : 500733
+Text in srt: 
+PlainText : >>¿Y QUÉ ES ESTO?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 249
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 497029
+End : 502101
+Text in srt: 
+PlainText : TITA: ¡PUES LÉELO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 250
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 498231
+End : 505538
+Text in srt: 
+PlainText : >>¿UNA CARTA DE HUGO? ¡QUÉ RARO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 251
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 500800
+End : 507974
+Text in srt: 
+PlainText : >> YO TAMBIÉN PIENSO LO MISMO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 252
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 502167
+End : 509876
+Text in srt: 
+PlainText : ¿QUÉ DICE?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 253
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 505605
+End : 510977
+Text in srt: 
+PlainText : >> LA CARTA NO ES DE HUGO, ES DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 254
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 508040
+End : 513379
+Text in srt: 
+PlainText : BLANCA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 255
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 509942
+End : 516449
+Text in srt: 
+PlainText : >> CLARO, LO DEBE HABER HECHO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 256
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 511043
+End : 517783
+Text in srt: 
+PlainText : ASÍ PARA DESPISTAR A LA POLICÍA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 257
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 513446
+End : 520386
+Text in srt: 
+PlainText : ¿QUÉ DICE, HIJA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 258
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 516516
+End : 521687
+Text in srt: 
+PlainText : KARINA: SE FUERON.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 259
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 517850
+End : 523856
+Text in srt: 
+PlainText : >>¿CÓMO QUE SE FUERON?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 260
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 520453
+End : 525458
+Text in srt: 
+PlainText : >> BLANCA Y SUS HERMANOS SE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 261
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 521754
+End : 527260
+Text in srt: 
+PlainText : FUERON DE ACAPULCO. Y QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 262
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 523923
+End : 527260
+Text in srt: 
+PlainText : NUNCA VAN A REGRESAR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 263
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 525524
+End : 527260
+Text in srt: 
+PlainText : >>¡AY, NO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 264
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 527926
+End : 530897
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 265
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 532865
+End : 537904
+Text in srt: 
+PlainText : >> TUS LÁGRIMAS ME DICEN QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 266
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 533966
+End : 539572
+Text in srt: 
+PlainText : ESTOY EN LO CIERTO. TE PROMETO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 267
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 536068
+End : 540540
+Text in srt: 
+PlainText : QUE NO TE VOY A DEJAR SOLA, NI
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 268
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 537970
+End : 543509
+Text in srt: 
+PlainText : AHORA NI NUNCA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 269
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 539639
+End : 544410
+Text in srt: 
+PlainText : VOY A ESCUCHAR A ADRIANO SIN
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 270
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 540606
+End : 546913
+Text in srt: 
+PlainText : PREJUICIOS. A PESAR DE TODAS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 271
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 543576
+End : 548281
+Text in srt: 
+PlainText : NUESTRAS DIFERENCIAS,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 272
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 544477
+End : 549615
+Text in srt: 
+PlainText : SÉ QUE ESE HOMBRE TE AMÓ Y
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 273
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 546979
+End : 551684
+Text in srt: 
+PlainText : ME ENCANTARÍA SER EL FRUTO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 274
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 548347
+End : 551684
+Text in srt: 
+PlainText : DE ESE AMOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 275
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 549682
+End : 551684
+Text in srt: 
+PlainText : RAQUEL: CRISTÓBAL...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 276
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 556122
+End : 560426
+Text in srt: 
+PlainText : TERMINEMOS DE UNA VEZ POR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 277
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 557823
+End : 561594
+Text in srt: 
+PlainText : TODAS CON ESTA TORTURA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 278
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 558991
+End : 563396
+Text in srt: 
+PlainText : >>¿ACASO NO PUEDO TENER
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 279
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 560493
+End : 563396
+Text in srt: 
+PlainText : UN MOMENTO DE PRIVACIDAD
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 280
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 561660
+End : 563396
+Text in srt: 
+PlainText : CON ELLA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 281
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 566932
+End : 572905
+Text in srt: 
+PlainText : >> ES CIERTO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 282
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 571037
+End : 572905
+Text in srt: 
+PlainText : ERES TÚ. [SOLLOZA]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 283
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 574807
+End : 583816
+Text in srt: 
+PlainText : >>¿CÓMO?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 284
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 578177
+End : 585885
+Text in srt: 
+PlainText : >> VOY A TERMINAR CON ESTA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 285
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 579579
+End : 585885
+Text in srt: 
+PlainText : MENTIRA, CRISTÓBAL. POR TI...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 286
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 583882
+End : 585885
+Text in srt: 
+PlainText : Y POR TUS HERMANOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 287
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 588921
+End : 593225
+Text in srt: 
+PlainText : VALENTINA ES TU MADRE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 288
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 591523
+End : 593225
+Text in srt: 
+PlainText : [SOLLOZOS]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 289
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 594292
+End : 599365
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 290
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 600066
+End : 603769
+Text in srt: 
+PlainText : >> EDUARDO, GRACIAS POR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 291
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 601233
+End : 604770
+Text in srt: 
+PlainText : HABER VENIDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 292
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 602568
+End : 605905
+Text in srt: 
+PlainText : >> SOLAMENTE ESPERO QUE LA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 293
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 603836
+End : 608708
+Text in srt: 
+PlainText : SITUACIÓN CON CRISTÓBAL Y CON
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 294
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 604837
+End : 610743
+Text in srt: 
+PlainText : NOSOTROS SE RESUELVA PRONTO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 295
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 605972
+End : 610743
+Text in srt: 
+PlainText : >>SÍ, YO TAMBIÉN ASÍ LO ESPERO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 296
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 608774
+End : 610743
+Text in srt: 
+PlainText : QUE TE VAYA BIEN.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 297
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 611576
+End : 614780
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 298
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 616215
+End : 623889
+Text in srt: 
+PlainText : >> ESO NO PUEDE SER CIERTO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 299
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 619652
+End : 629195
+Text in srt: 
+PlainText : >> YO NUNCA PENSÉ QUE TE LO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 300
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 620786
+End : 631464
+Text in srt: 
+PlainText : IBA A DECIR. NUNCA QUISE QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 301
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 623956
+End : 631464
+Text in srt: 
+PlainText : ESTA VERDAD SE SUPIERA. PERO...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 302
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 629261
+End : 631464
+Text in srt: 
+PlainText : NO HABÍA OTRA ALTERNATIVA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 303
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 633232
+End : 642642
+Text in srt: 
+PlainText : >> VALENTINA...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 304
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 634867
+End : 645411
+Text in srt: 
+PlainText : >> TIENES RAZÓN. CADA VEZ QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 305
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 638404
+End : 649949
+Text in srt: 
+PlainText : TE VEÍA... RECORDABA EL AMOR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 306
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 642708
+End : 652218
+Text in srt: 
+PlainText : DE ADRIANO Y VALENTINA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 307
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 645478
+End : 655655
+Text in srt: 
+PlainText : Y TE JURO...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 308
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 650016
+End : 657023
+Text in srt: 
+PlainText : [SOLLOZA] TE JURO QUE SE ME
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 309
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 652284
+End : 658491
+Text in srt: 
+PlainText : REVOLVÍA EL ESTÓMAGO. 
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 310
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 655721
+End : 660593
+Text in srt: 
+PlainText : MI HERMANA ARRUINÓ SU VIDA 
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 311
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 657089
+End : 662662
+Text in srt: 
+PlainText : CON ESE EMBARAZO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 312
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 658557
+End : 665865
+Text in srt: 
+PlainText : >>¿CÓMO PUEDES SER TAN CRUEL,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 313
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 660660
+End : 671337
+Text in srt: 
+PlainText : RAQUEL ALTAMIRA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 314
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 662728
+End : 673472
+Text in srt: 
+PlainText : >>¿CRUEL? TE CUIDÉ COMO UNO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 315
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 665931
+End : 674874
+Text in srt: 
+PlainText : DE MIS HIJOS. Y TE QUISE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 316
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 671404
+End : 676676
+Text in srt: 
+PlainText : TE QUISE MUCHO MÁS... DE LO QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 317
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 673539
+End : 677943
+Text in srt: 
+PlainText : ELLA TE HUBIERA QUERIDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 318
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 674940
+End : 679645
+Text in srt: 
+PlainText : >>NUNCA ME QUISISTE. TÚ,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 319
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 676742
+End : 681113
+Text in srt: 
+PlainText : SOLAMENTE ME DEMOSTRABAS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 320
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 678010
+End : 682515
+Text in srt: 
+PlainText : DESPRECIO, MIENTRAS YO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 321
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 679712
+End : 686819
+Text in srt: 
+PlainText : LUCHABA DURAMENTE ¡POR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 322
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 681180
+End : 690890
+Text in srt: 
+PlainText : UN POQUITO DE TU AMOR!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 323
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 682581
+End : 694560
+Text in srt: 
+PlainText : >> YO TE QUISE, CRISTÓBAL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 324
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 686886
+End : 697229
+Text in srt: 
+PlainText : A MI MANERA... CON MI MODO...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 325
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 690956
+End : 698464
+Text in srt: 
+PlainText : TE QUISE... Y TE QUIERO MUCHO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 326
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 694627
+End : 700166
+Text in srt: 
+PlainText : >>¡SÍ, CLARO! ME QUIERES, PERO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 327
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 697296
+End : 704136
+Text in srt: 
+PlainText : COMO UN SOBRINO; PORQUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 328
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 698530
+End : 709208
+Text in srt: 
+PlainText : ESO SOY PARA TI: ¡UN SOBRINO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 329
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 700232
+End : 713479
+Text in srt: 
+PlainText : >>¡NO! NO, CRISTÓBAL.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 330
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 704203
+End : 714780
+Text in srt: 
+PlainText : YO TE CRÍE COMO UN HIJO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 331
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 709275
+End : 718384
+Text in srt: 
+PlainText : Y ESO SIEMPRE VAS A SER PARA MÍ.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 332
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 713546
+End : 721353
+Text in srt: 
+PlainText : ESPERO QUE AHORA QUE SABES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 333
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 714847
+End : 723522
+Text in srt: 
+PlainText : LA VERDAD... ME AGRADEZCAS QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 334
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 718451
+End : 723522
+Text in srt: 
+PlainText : NO TE HAYA DADO EN ADOPCIÓN...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 335
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 721420
+End : 723522
+Text in srt: 
+PlainText : COMO QUERÍA MI PADRE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 336
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 723989
+End : 728961
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 337
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 731530
+End : 734233
+Text in srt: 
+PlainText : >>¿QUÉ PASÓ? ¿PUDISTE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 338
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 732398
+End : 735801
+Text in srt: 
+PlainText : HABLAR CON BLANCA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 339
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 733365
+End : 736802
+Text in srt: 
+PlainText : >> NO. NO ME CONTESTA SU
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 340
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 734300
+End : 738270
+Text in srt: 
+PlainText : CELULAR, NI EL DE SIMONA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 341
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 735868
+End : 741073
+Text in srt: 
+PlainText : >> TRANQUILA, SEGURAMENTE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 342
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 736869
+End : 743375
+Text in srt: 
+PlainText : ESTÁN BIEN.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 343
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 738337
+End : 744443
+Text in srt: 
+PlainText : >>¿Y TÚ? ¿YA TE SIENTES MEJOR?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 344
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 741140
+End : 745644
+Text in srt: 
+PlainText : >> NO. NO PUEDO DEJAR DE PENSAR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 345
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 743442
+End : 746545
+Text in srt: 
+PlainText : EN QUE CRISTÓBAL Y EDUARDO NO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 346
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 744510
+End : 747913
+Text in srt: 
+PlainText : SEAN MIS HERMANOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 347
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 745711
+End : 748914
+Text in srt: 
+PlainText : >> ELLOS NUNCA VAN A DEJAR DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 348
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 746612
+End : 750316
+Text in srt: 
+PlainText : SER TUS HERMANOS, PASE LO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 349
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 747980
+End : 751984
+Text in srt: 
+PlainText : QUE PASE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 350
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 748981
+End : 752852
+Text in srt: 
+PlainText : >> CRISTÓBAL ESTÁ CONVENCIDO DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 351
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 750382
+End : 754186
+Text in srt: 
+PlainText : QUE ÉL ES EL HIJO DE ADRIANO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 352
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 752051
+End : 755020
+Text in srt: 
+PlainText : Y LO PEOR DE TODO, ES QUE CREO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 353
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 752918
+End : 756822
+Text in srt: 
+PlainText : QUE TIENE RAZÓN.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 354
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 754253
+End : 759391
+Text in srt: 
+PlainText : MAMÁ SIEMPRE LO HA HECHO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 355
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 755087
+End : 760292
+Text in srt: 
+PlainText : MENOS, ¡LO HUMILLA!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 356
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 756922
+End : 762194
+Text in srt: 
+PlainText : ¡NUNCA LO HA APOYADO EN NADA!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 357
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 759458
+End : 762862
+Text in srt: 
+PlainText : ¿CÓMO VOY A VER A MI MADRE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 358
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 760359
+End : 764630
+Text in srt: 
+PlainText : DESPUÉS DE ESTO, KARINA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 359
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 762261
+End : 764630
+Text in srt: 
+PlainText : ¿CÓMO PUEDO PERDONARLE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 360
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 762928
+End : 764630
+Text in srt: 
+PlainText : ALGO ASÍ?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 361
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 765630
+End : 767666
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 362
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 769268
+End : 770970
+Text in srt: 
+PlainText : [TIMBRE DE LA PUERTA]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 363
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 771904
+End : 776642
+Text in srt: 
+PlainText : [RUIDO AL ABRIR] >> MELANIA...
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 364
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 773606
+End : 778410
+Text in srt: 
+PlainText : >> VI SALIR A EDUARDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 365
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 774907
+End : 778410
+Text in srt: 
+PlainText : >>¡SÍ! SÍ, ASÍ ES. PASA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 366
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 776709
+End : 778410
+Text in srt: 
+PlainText : POR FAVOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 367
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 779979
+End : 782014
+Text in srt: 
+PlainText : [♪♪♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 368
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 782882
+End : 784884
+Text in srt: 
+PlainText : SIÉNTATE.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 369
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 787887
+End : 795227
+Text in srt: 
+PlainText : >> NO PUDE DORMIR. Y SI LO QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 370
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 790890
+End : 796896
+Text in srt: 
+PlainText : DICES ES VERDAD, QUE MI HIJA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 371
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 792291
+End : 796896
+Text in srt: 
+PlainText : ES INOCENTE, TIENE QUE SER
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 372
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 795294
+End : 796896
+Text in srt: 
+PlainText : LIBERADA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 373
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 797629
+End : 801634
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 374
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 803202
+End : 806872
+Text in srt: 
+PlainText : >> VAMOS AL ESTUDIO, QUIERO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 375
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 804503
+End : 808474
+Text in srt: 
+PlainText : SEGUIR HABLANDO CONTIGO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 376
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 806105
+End : 810009
+Text in srt: 
+PlainText : >> YO NO TENGO NADA QUE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 377
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 806939
+End : 811410
+Text in srt: 
+PlainText : HABLAR CONTIGO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 378
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 808574
+End : 812745
+Text in srt: 
+PlainText : ¡ME ROBASTE A TU HERMANA!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 379
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 810109
+End : 814380
+Text in srt: 
+PlainText : ¡ME HAS HECHO LA VIDA IMPOSIBLE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 380
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 811477
+End : 815281
+Text in srt: 
+PlainText : DESDE QUE SOY UN NIÑO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 381
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 812845
+End : 816382
+Text in srt: 
+PlainText : ¡¿QUÉ QUIERES HABLAR CONMIGO?!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 382
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 814446
+End : 817483
+Text in srt: 
+PlainText : >>¡TE SALVÉ DEL ORFANATO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 383
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 815347
+End : 818717
+Text in srt: 
+PlainText : NO SEAS MALAGRADECIDO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 384
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 816448
+End : 819518
+Text in srt: 
+PlainText : >>¡SÍ, SÍ, ME SALVASTE DE UN
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 385
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 817549
+End : 822454
+Text in srt: 
+PlainText : ORFANATO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 386
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 818784
+End : 823689
+Text in srt: 
+PlainText : PERO HUBIERA PREFERIDO ESTAR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 387
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 819585
+End : 824990
+Text in srt: 
+PlainText : AHÍ. ¡HUBIERA SIDO FELIZ!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 388
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 822521
+End : 826158
+Text in srt: 
+PlainText : PORQUE YO, SOY EL ÚNICO DE MIS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 389
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 823756
+End : 827560
+Text in srt: 
+PlainText : HERMANOS ¡QUE SABE EL TIPO DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 390
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 825057
+End : 828594
+Text in srt: 
+PlainText : MUJER QUE ERES!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 391
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 826225
+End : 830496
+Text in srt: 
+PlainText : RAQUEL: ¡CUIDA TUS PALABRAS!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 392
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 827626
+End : 832331
+Text in srt: 
+PlainText : >> NO OLVIDES QUE YO SÉ DEL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 393
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 828661
+End : 833465
+Text in srt: 
+PlainText : ASESINATO DE MEMO GUERRERO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 394
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 830596
+End : 835201
+Text in srt: 
+PlainText : ¡YO SÉ DE TODAS TUS COSAS!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 395
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 832398
+End : 837469
+Text in srt: 
+PlainText : Y CRÉEME, ¡QUE ACABAS DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 396
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 833532
+End : 837469
+Text in srt: 
+PlainText : PERDER A TU MEJOR ALIADO!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 397
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 835267
+End : 837469
+Text in srt: 
+PlainText : >> ESPÉRAME... ¡ESPÉRAME!
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 398
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 840172
+End : 844243
+Text in srt: 
+PlainText : ¿ESTÁS CONTENTA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 399
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 842508
+End : 844243
+Text in srt: 
+PlainText : MAL AGRADECIDA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 400
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 844709
+End : 849815
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 401
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 850649
+End : 854186
+Text in srt: 
+PlainText : >> AQUÍ TIENES, MELANIA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 402
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 852051
+End : 856522
+Text in srt: 
+PlainText : >> GRACIAS, ADRIANO. NO TE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 403
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 853152
+End : 858324
+Text in srt: 
+PlainText : HUBIERAS MOLESTADO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 404
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 854253
+End : 858991
+Text in srt: 
+PlainText : >> NO ES NINGUNA MOLESTIA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 405
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 856589
+End : 861627
+Text in srt: 
+PlainText : PARA MÍ ERES UNA VISITA COMO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 406
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 858390
+End : 864430
+Text in srt: 
+PlainText : CUALQUIER OTRA QUE VIENE A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 407
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 859057
+End : 866732
+Text in srt: 
+PlainText : MI CASA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 408
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 861693
+End : 868234
+Text in srt: 
+PlainText : >> ME CUESTA TRABAJO... SABER
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 409
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 864496
+End : 870236
+Text in srt: 
+PlainText : QUE LETICIA ES INOCENTE. ELLA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 410
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 866799
+End : 871737
+Text in srt: 
+PlainText : ENGAÑABA A LA SRA. RAQUEL CON
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 411
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 868300
+End : 874039
+Text in srt: 
+PlainText : JUAN CARLOS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 412
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 870302
+End : 876508
+Text in srt: 
+PlainText : >> SÍ. PERO ESO NO LA CONVIERTE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 413
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 871803
+End : 877843
+Text in srt: 
+PlainText : EN ASESINA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 414
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 874106
+End : 879044
+Text in srt: 
+PlainText : RAQUEL LO MATÓ, MELANIA. Y
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 415
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 876575
+End : 880346
+Text in srt: 
+PlainText : LE TENDIÓ UNA TRAMPA A TU
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 416
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 877910
+End : 881447
+Text in srt: 
+PlainText : HIJA PARA QUE PAGARA POR
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 417
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 879111
+End : 883549
+Text in srt: 
+PlainText : SU CRIMEN.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 418
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 880412
+End : 884850
+Text in srt: 
+PlainText : >>¿Y POR QUÉ IBA A HACER ESO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 419
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 881513
+End : 887453
+Text in srt: 
+PlainText : SI ERA EL PADRE DE SUS HIJOS?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 420
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 883616
+End : 890656
+Text in srt: 
+PlainText : >> NO. EL PADRE DE DOS DE SUS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 421
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 884917
+End : 891991
+Text in srt: 
+PlainText : HIJOS, PORQUE UNO DE ELLOS ES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 422
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 887519
+End : 894226
+Text in srt: 
+PlainText : DE VALENTINA Y MÍO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 423
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 890723
+End : 896061
+Text in srt: 
+PlainText : SI NO ME QUIERES DECIR QUIÉN ES,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 424
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 892057
+End : 898063
+Text in srt: 
+PlainText : NO HAY PROBLEMA. SÉ QUE RAQUEL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 425
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 894293
+End : 899365
+Text in srt: 
+PlainText : TODAVÍA TE PUEDE HACER DAÑO, Y A
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 426
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 896128
+End : 900900
+Text in srt: 
+PlainText : TU HIJA TAMBIÉN.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 427
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 898130
+End : 903269
+Text in srt: 
+PlainText : >>BUENO, ¿POR QUÉ QUIERES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 428
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 899431
+End : 904703
+Text in srt: 
+PlainText : AYUDAR A LETICIA?
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 429
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 900966
+End : 905971
+Text in srt: 
+PlainText : >>PORQUE ES LO JUSTO, MELANIA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 430
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 903335
+End : 908073
+Text in srt: 
+PlainText : PUEDO TENER MUCHOS DEFECTOS,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 431
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 904770
+End : 909475
+Text in srt: 
+PlainText : PERO SOY UN HOMBRE QUE LUCHA
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 432
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 906038
+End : 910876
+Text in srt: 
+PlainText : POR LA JUSTICIA Y RAQUEL
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 433
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 908140
+End : 912978
+Text in srt: 
+PlainText : VA A PAGAR POR EL CRIMEN DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 434
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 909541
+End : 914113
+Text in srt: 
+PlainText : SU MARIDO Y DE TANTOS MÁS.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 435
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 910976
+End : 916482
+Text in srt: 
+PlainText : ¡ABRE LOS OJOS! AÚN TIENES
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 436
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 913045
+End : 918617
+Text in srt: 
+PlainText : TIEMPO DE ENMENDAR TUS
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 437
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 914179
+End : 920185
+Text in srt: 
+PlainText : ERRORES; SALVA A TU HIJA DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 438
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 916548
+End : 922087
+Text in srt: 
+PlainText : TODO ESTO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 439
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 918684
+End : 924223
+Text in srt: 
+PlainText : RAQUEL NO ES TU SALVADORA,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 440
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 920252
+End : 924223
+Text in srt: 
+PlainText : -COMO TE HA HECHO CREER-.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 441
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 922154
+End : 924223
+Text in srt: 
+PlainText : ES TU PEOR ENEMIGA, MELANIA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 442
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 925023
+End : 928060
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 443
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 929261
+End : 934366
+Text in srt: 
+PlainText : [CHAPALEO DEL AGUA]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 444
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 937302
+End : 940272
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 445
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 946378
+End : 956555
+Text in srt: 
+PlainText : [RECUERDA] >>VOY A TERMINAR
+FormattedText :
+
+[RECUERDA] Properties: FontColor: default BackGroundColor: default isBold: No isItalic: No isUnderlined: No
+
+ >>VOY A TERMINAR Properties: FontColor: default BackGroundColor: default isBold: No isItalic: Yes isUnderlined: No
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 446
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 948113
+End : 958657
+Text in srt: 
+PlainText : CON ESTA MENTIRA, CRISTÓBAL,
+FormattedText :
+
+CON ESTA MENTIRA, CRISTÓBAL, Properties: FontColor: default BackGroundColor: default isBold: No isItalic: Yes isUnderlined: No
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 447
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 950182
+End : 958657
+Text in srt: 
+PlainText : POR TI Y POR TUS HERMANOS.
+FormattedText :
+
+POR TI Y POR TUS HERMANOS. Properties: FontColor: default BackGroundColor: default isBold: No isItalic: Yes isUnderlined: No
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 448
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 956622
+End : 958657
+Text in srt: 
+PlainText : VALENTINA ES TU MADRE. 
+FormattedText :
+
+VALENTINA ES TU MADRE.  Properties: FontColor: default BackGroundColor: default isBold: No isItalic: Yes isUnderlined: No
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 449
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 959824
+End : 962795
+Text in srt: 
+PlainText : [♪♪♪]
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 450
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 966298
+End : 971036
+Text in srt: 
+PlainText : >>CRISTÓBAL, ESCÚCHAME.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 451
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 968534
+End : 971737
+Text in srt: 
+PlainText : >>POR FAVOR, DÉJAME EN PAZ,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 452
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 969635
+End : 972438
+Text in srt: 
+PlainText : ESTOY PENSANDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 453
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 971103
+End : 973439
+Text in srt: 
+PlainText : >> IMAGINO QUE ESTÁS MUY
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 454
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 971804
+End : 974974
+Text in srt: 
+PlainText : AFECTADO POR LO QUE ESTÁ
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 455
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 972504
+End : 975841
+Text in srt: 
+PlainText : OCURRIENDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 456
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 973505
+End : 977543
+Text in srt: 
+PlainText : TODOS LO ESTAMOS, PERO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 457
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 975040
+End : 978444
+Text in srt: 
+PlainText : TENEMOS QUE PERMANECER
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 458
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 975908
+End : 979244
+Text in srt: 
+PlainText : MÁS UNIDOS QUE NUNCA.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 459
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 977609
+End : 980012
+Text in srt: 
+PlainText : PARA TODOS ES DOLOROSO
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 460
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 978510
+End : 981847
+Text in srt: 
+PlainText : SABER QUE NUESTRA MADRE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 461
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 979311
+End : 983482
+Text in srt: 
+PlainText : NOS ESTUVO MINTIENDO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 462
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 980079
+End : 984750
+Text in srt: 
+PlainText : >>NO. PARA MÍ ES MÁS DOLOROSO,
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 463
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 981914
+End : 986018
+Text in srt: 
+PlainText : ESO QUE TE QUEDE CLARO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 464
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 983549
+End : 988020
+Text in srt: 
+PlainText : >>CRISTÓBAL, POR FAVOR.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 465
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 984817
+End : 988020
+Text in srt: 
+PlainText : >>YO SOY EL HIJO BASTARDO DE
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 466
+*********Description Ends*******************************
+
+ *********Description Starts*****************************
+Time in ms: 
+Start : 986085
+End : 988020
+Text in srt: 
+PlainText : VALENTINA Y DE ADRIANO.
+FormattedText :
+
+Text isn't formatted
+
+Position of srt Block: Bottom-Center
+Sequence no. in srt: 467
+*********Description Ends*******************************
